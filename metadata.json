@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SmartVision: Apple Leaf Disease Detector",
+  "description": "Real-time apple leaf disease detection and severity estimation using deep learning and AI-powered agricultural advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
